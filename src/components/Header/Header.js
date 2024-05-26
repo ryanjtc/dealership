@@ -23,11 +23,11 @@ import { ChevronDownIcon, PhoneIcon, AdjustmentsHorizontalIcon } from '@heroicon
 import PromoBanner from '../../components/PromoBanner/PromoBanner';
 
 const products = [
-  { name: 'New', description: 'Get a better understanding of your traffic', href: '#', icon: KeyIcon },
-  { name: 'Used', description: 'Speak directly to your customers', href: '#', icon: KeyIcon },
-  { name: 'Financing', description: 'Your customers’ data will be safe and secure', href: '#', icon: CurrencyDollarIcon },
-  { name: 'Trade In', description: 'Connect with third-party tools', href: '#', icon: ArrowPathIcon },
-  { name: 'Demos', description: 'Build strategic funnels that will convert', href: '#', icon: TagIcon },
+  { name: 'New', description: 'Lorem ipsum dolor sit amet consect etur adipisicing elit.', href: '#', icon: KeyIcon },
+  { name: 'Used', description: 'Lorem ipsum dolor sit amet consect etur adipisicing elit.', href: '#', icon: KeyIcon },
+  { name: 'Financing', description: 'Lorem ipsum dolor sit amet consect etur adipisicing elit.', href: '#', icon: CurrencyDollarIcon },
+  { name: 'Trade In', description: 'Lorem ipsum dolor sit amet consect etur adipisicing elit.', href: '#', icon: ArrowPathIcon },
+  { name: 'Demos', description: 'Lorem ipsum dolor sit amet consect etur adipisicing elit.', href: '#', icon: TagIcon },
 ];
 const callsToAction = [
   { name: 'Build Your Deal', href: '#', icon: AdjustmentsHorizontalIcon },
